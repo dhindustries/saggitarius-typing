@@ -1,0 +1,14 @@
+{
+  "name": "@saggitarius/typing",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": {
+      "name": "Daniel Haba",
+      "email": "habavx@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.6"
+  }
+}

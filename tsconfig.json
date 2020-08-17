@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "module": "commonjs",
+        "target": "es2016",
+        "jsx": "preserve",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "sourceRoot": "./src",
+        "rootDir": "./src"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*",
+        "dist"
+    ]
+}
